@@ -1,21 +1,102 @@
 ---
 layout: default
-title: home
+title: Advent Calendar Challenge
 nav_order: 1
 ---
 
-# hello world !!!
-FabLabSENDAI-FLATのドキュメントテンプレートです。
-
-## LINK
-This is our [web page's link](http://fablabsendai-flat.com/)
+# Advent Calendar Challengeとは
+<br><br>
 
 
-## image
-<img src="images/コメント 2020-05-26 225341.jpg" alt="hi" class="inline"/>
+Advent Calendar（アドベントカレンダー）は、クリスマスまでの日数を数えるために使用されるカレンダーです。<br>
+FabLab SENDAI – FLATでもこれに倣って、12月1日から12月25日のクリスマス当日まで、毎日異なる技法で数字を1つ制作するという活動を行ってきました。<br>
+2019〜2020年は主にFabLab SENDAI - FLATスタッフが制作を行ってきましたが、2021年からは各地で活動するアーティストやデザイナーの皆さんにもご参加いただいています。<br>
+<br>
 
-## YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LR1SmL5JmHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
 
-## SoundCloud
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/595997727&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fablab-sendai" title="FabLab SENDAI" target="_blank" style="color: #cccccc; text-decoration: none;">FabLab SENDAI</a> · <a href="https://soundcloud.com/fablab-sendai/3jiku-ondo" title="三軸音頭(DEMO)" target="_blank" style="color: #cccccc; text-decoration: none;">三軸音頭(DEMO)</a></div>
+### **これまでの参加者**
+<br>
+
+**2022**
+* <a href="https://fablabsendai.github.io/acc/2022/1201.html" target="_blank" rel="noopener noreferrer">12/1：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1202.html" target="_blank" rel="noopener noreferrer">12/2：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1203.html" target="_blank" rel="noopener noreferrer">12/3：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1204.html" target="_blank" rel="noopener noreferrer">12/4：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1205.html" target="_blank" rel="noopener noreferrer">12/5：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1206.html" target="_blank" rel="noopener noreferrer">12/6：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1207.html" target="_blank" rel="noopener noreferrer">12/7：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1208.html" target="_blank" rel="noopener noreferrer">12/7：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1209.html" target="_blank" rel="noopener noreferrer">12/9：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1210.html" target="_blank" rel="noopener noreferrer">12/10：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1211.html" target="_blank" rel="noopener noreferrer">12/11：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1212.html" target="_blank" rel="noopener noreferrer">12/12：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1213.html" target="_blank" rel="noopener noreferrer">12/13：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1214.html" target="_blank" rel="noopener noreferrer">12/14：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1215.html" target="_blank" rel="noopener noreferrer">12/15：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1216.html" target="_blank" rel="noopener noreferrer">12/16：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1217.html" target="_blank" rel="noopener noreferrer">12/17：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1218.html" target="_blank" rel="noopener noreferrer">12/18：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1219.html" target="_blank" rel="noopener noreferrer">12/19：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1220.html" target="_blank" rel="noopener noreferrer">12/20：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1221.html" target="_blank" rel="noopener noreferrer">12/21：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1222.html" target="_blank" rel="noopener noreferrer">12/22：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1223.html" target="_blank" rel="noopener noreferrer">12/23：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1224.html" target="_blank" rel="noopener noreferrer">12/24：</a>
+* <a href="https://fablabsendai.github.io/acc/2022/1225.html" target="_blank" rel="noopener noreferrer">12/25：</a>
+
+<br>
+<br>
+
+**2021**
+* <a href="https://fablabsendai.github.io/acc/2021/1201.html" target="_blank" rel="noopener noreferrer">12/1：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1202.html" target="_blank" rel="noopener noreferrer">12/2：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1203.html" target="_blank" rel="noopener noreferrer">12/3：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1204.html" target="_blank" rel="noopener noreferrer">12/4：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1205.html" target="_blank" rel="noopener noreferrer">12/5：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1206.html" target="_blank" rel="noopener noreferrer">12/6：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1207.html" target="_blank" rel="noopener noreferrer">12/7：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1208.html" target="_blank" rel="noopener noreferrer">12/7：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1209.html" target="_blank" rel="noopener noreferrer">12/9：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1210.html" target="_blank" rel="noopener noreferrer">12/10：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1211.html" target="_blank" rel="noopener noreferrer">12/11：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1212.html" target="_blank" rel="noopener noreferrer">12/12：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1213.html" target="_blank" rel="noopener noreferrer">12/13：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1214.html" target="_blank" rel="noopener noreferrer">12/14：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1215.html" target="_blank" rel="noopener noreferrer">12/15：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1216.html" target="_blank" rel="noopener noreferrer">12/16：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1217.html" target="_blank" rel="noopener noreferrer">12/17：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1218.html" target="_blank" rel="noopener noreferrer">12/18：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1219.html" target="_blank" rel="noopener noreferrer">12/19：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1220.html" target="_blank" rel="noopener noreferrer">12/20：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1221.html" target="_blank" rel="noopener noreferrer">12/21：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1222.html" target="_blank" rel="noopener noreferrer">12/22：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1223.html" target="_blank" rel="noopener noreferrer">12/23：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1224.html" target="_blank" rel="noopener noreferrer">12/24：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1225.html" target="_blank" rel="noopener noreferrer">12/25：</a>
+
+<br>
+<br>
+
+**2020, 2019**
+
+* 大網拓真（FabLab SENDAI - FLAT）
+* 小野寺志乃（FabLab SENDAI - FLAT）
+
+---
+
+<br>
+
+### **著作権**
+
+ Advent Calendar Challengeに掲載されたコンテンツ（文章、写真、動画、図版、データなど）の著作権は、FabLab SENDAI - FLAT及び各製作者に帰属します。これらの無断利用、無断転載はお断りします。<br>
+<br>
+
+### **お問い合わせ**
+
+**[FabLab SENDAI - FLAT](https://fablabsendai-flat.com)**<br>
+info@flatjp.com
+
+<br>
+<br>
+<br>
