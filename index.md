@@ -80,8 +80,8 @@ FabLab SENDAI – FLATでもこれに倣って、12月1日から12月25日のク
 
 **2020, 2019**
 
-* 大網拓真（FabLab SENDAI - FLAT）
-* 小野寺志乃（FabLab SENDAI - FLAT）
+* 大網 拓真（FabLab SENDAI - FLAT）
+* 小野寺 志乃（FabLab SENDAI - FLAT）
 
 ---
 
