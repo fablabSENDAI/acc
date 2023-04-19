@@ -49,31 +49,31 @@ FabLab SENDAI – FLATでもこれに倣って、12月1日から12月25日のク
 <br>
 
 **2021**
-* <a href="https://fablabsendai.github.io/acc/2021/1201.html" target="_blank" rel="noopener noreferrer">12/1：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1202.html" target="_blank" rel="noopener noreferrer">12/2：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1203.html" target="_blank" rel="noopener noreferrer">12/3：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1204.html" target="_blank" rel="noopener noreferrer">12/4：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1205.html" target="_blank" rel="noopener noreferrer">12/5：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1206.html" target="_blank" rel="noopener noreferrer">12/6：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1207.html" target="_blank" rel="noopener noreferrer">12/7：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1208.html" target="_blank" rel="noopener noreferrer">12/7：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1209.html" target="_blank" rel="noopener noreferrer">12/9：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1210.html" target="_blank" rel="noopener noreferrer">12/10：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1211.html" target="_blank" rel="noopener noreferrer">12/11：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1212.html" target="_blank" rel="noopener noreferrer">12/12：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1213.html" target="_blank" rel="noopener noreferrer">12/13：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1214.html" target="_blank" rel="noopener noreferrer">12/14：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1215.html" target="_blank" rel="noopener noreferrer">12/15：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1216.html" target="_blank" rel="noopener noreferrer">12/16：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1217.html" target="_blank" rel="noopener noreferrer">12/17：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1218.html" target="_blank" rel="noopener noreferrer">12/18：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1219.html" target="_blank" rel="noopener noreferrer">12/19：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1220.html" target="_blank" rel="noopener noreferrer">12/20：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1221.html" target="_blank" rel="noopener noreferrer">12/21：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1222.html" target="_blank" rel="noopener noreferrer">12/22：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1223.html" target="_blank" rel="noopener noreferrer">12/23：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1224.html" target="_blank" rel="noopener noreferrer">12/24：</a>
-* <a href="https://fablabsendai.github.io/acc/2021/1225.html" target="_blank" rel="noopener noreferrer">12/25：</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1201.html" target="_blank" rel="noopener noreferrer">12/1：FabLab SENDAI - FLAT</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1202.html" target="_blank" rel="noopener noreferrer">12/2：加藤 未央さん</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1203.html" target="_blank" rel="noopener noreferrer">12/3：益田 佳奈さん</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1204.html" target="_blank" rel="noopener noreferrer">12/4：藤森 研伍さん（合同会社 Studio DIM）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1205.html" target="_blank" rel="noopener noreferrer">12/5：檜垣 万里子さん</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1206.html" target="_blank" rel="noopener noreferrer">12/6：小松 大知さん（TORCH）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1207.html" target="_blank" rel="noopener noreferrer">12/7：井黒 恵美さん（FabLab MinatoMirai）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1208.html" target="_blank" rel="noopener noreferrer">12/8：高橋 志津子さん（京都芸術大学ウルトラファクトリー）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1209.html" target="_blank" rel="noopener noreferrer">12/9：いしい ひかるさん（Root n）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1210.html" target="_blank" rel="noopener noreferrer">12/10：廣瀬・ダンシングオールナイト・悠一さん</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1211.html" target="_blank" rel="noopener noreferrer">12/11：鈴谷 瑞樹さん / エンジニアカフェ</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1212.html" target="_blank" rel="noopener noreferrer">12/12：大江 ようさん（ＴＥＸＴ）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1213.html" target="_blank" rel="noopener noreferrer">12/13：乙女電芸部</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1214.html" target="_blank" rel="noopener noreferrer">12/14：伊澤 宥依さん（情報科学芸術大学院大学）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1215.html" target="_blank" rel="noopener noreferrer">12/15：豊住 大輔さん（FabLab Oita）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1216.html" target="_blank" rel="noopener noreferrer">12/16：中澤 未来さん, 入江 信之介さん</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1217.html" target="_blank" rel="noopener noreferrer">12/17：鴻野 祐さん</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1218.html" target="_blank" rel="noopener noreferrer">12/18：荒牧 悠さん</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1219.html" target="_blank" rel="noopener noreferrer">12/19：淺野 義弘さん</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1220.html" target="_blank" rel="noopener noreferrer">12/20：analog</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1221.html" target="_blank" rel="noopener noreferrer">12/21：森本 康平さん（長岡造形大学,　ファブラボ北加賀屋）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1222.html" target="_blank" rel="noopener noreferrer">12/22：花田 康史さん（VUILD株式会社）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1223.html" target="_blank" rel="noopener noreferrer">12/23：高尾 俊介さん</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1224.html" target="_blank" rel="noopener noreferrer">12/24：水口 翔太さん（京都芸術大学ウルトラファクトリー）</a>
+* <a href="https://fablabsendai.github.io/acc/2021/1225.html" target="_blank" rel="noopener noreferrer">12/25：横山 文昭さん</a>
 
 <br>
 <br>
@@ -82,6 +82,14 @@ FabLab SENDAI – FLATでもこれに倣って、12月1日から12月25日のク
 
 * 大網 拓真（FabLab SENDAI - FLAT）
 * 小野寺 志乃（FabLab SENDAI - FLAT）
+
+<br>
+<br>
+
+※参加者の肩書は全て当時のものです。
+
+<br>
+<br>
 
 ---
 
