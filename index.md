@@ -4,9 +4,8 @@ title: Advent Calendar Challenge
 nav_order: 1
 ---
 
-# Advent Calendar Challengeとは
+# Advent Calendar Challengeとは🎄
 <br><br>
-
 
 Advent Calendar（アドベントカレンダー）は、クリスマスまでの日数を数えるために使用されるカレンダーです。<br>
 FabLab SENDAI – FLATでもこれに倣って、12月1日から12月25日のクリスマス当日まで、毎日異なる技法で数字を1つ制作するという活動を行ってきました。<br>
