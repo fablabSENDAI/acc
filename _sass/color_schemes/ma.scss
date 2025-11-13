@@ -130,7 +130,6 @@ $media-queries: (
   xl: 1400px,
 ) !default;
 
-// 画像を横並びに表示させる
-.no-wrap {
-  display: inline-block;
+table, th, td {
+  border: none;
 }
