@@ -129,3 +129,8 @@ $media-queries: (
   lg: $content-width + $nav-width,
   xl: 1400px,
 ) !default;
+
+// 画像を横並びに表示させる
+.no-wrap {
+  display: inline-block;
+}
